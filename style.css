@@ -1,0 +1,65 @@
+body{
+    margin: 0;
+    display: auto;
+    background-image: url("physics-chalkboard_cropped.jpg");
+    
+}
+
+
+h1{
+    text-align: center;
+    margin-top: -200px;
+    margin-right: auto;
+    margin-left: auto;
+}
+h5{
+    text-align: center;
+}
+header{
+    background-color: cadetblue;
+    height: 200px;
+}
+.Mymargin{
+    margin-left: auto;
+    margin-right: auto;
+    width: 100px;
+    height: 75px;
+    margin-top: 0;
+}
+footer{
+    text-align: center;
+    color: white;
+    background-color: cadetblue;
+    margin-top: 300px;
+}
+.mylimit{
+    width: 300px;
+    /* height: 700px !important; */
+    border-radius: 0 !important;
+    color: white !important;
+  
+}
+.mylimit1{
+    width: 300px;
+    background-color: cadetblue !important;
+    color: white !important;
+  
+}
+.Mymarginbody{
+    display:flex;
+}
+.Mymain{
+    filter: brightness(100%);
+    color: white;
+}
+.Mymain1{
+    filter: brightness(100%);
+    color: white;
+    background-color: cadetblue;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 15px;
+  
+
+}
