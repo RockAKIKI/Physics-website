@@ -18,6 +18,7 @@ h5{
 header{
     background-color: cadetblue;
     height: 200px;
+    margin-bottom: 5px solid white;
 }
 .Mymargin{
     margin-left: auto;
